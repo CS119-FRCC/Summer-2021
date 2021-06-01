@@ -1,0 +1,46 @@
+# CMake Files
+
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+Makefile
+
+# Executables
+
+a.out
+
+# IDE Files
+
+.idea
+.vscode
+
+# Mac Files
+.DS_STORE
+
+# Node Files
+
+node_modules
+package-lock.json
+
+# Python files
+
+/venv
+/env
+__pycache__
+
+# Output Files
+
+build
+coverage
+dist
+lib
+out
+
+# Server Files
+
+dependency-reduced-pom.xml
+target
+
+# Test Files
+
+.nyc_output
