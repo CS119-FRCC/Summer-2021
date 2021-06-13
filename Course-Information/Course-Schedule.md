@@ -2,22 +2,23 @@
 
 ## Important Dates
 
-First Day of Class: `6/1/2021`    
-Attendance Deadline (for students): `6/7/2021`
-Attendance Reporting Deadline (for instructors): `6/8/2021`
+First Day of Class: `6/1/2021`  
+Attendance Deadline (for students): `6/7/2021`  
+Attendance Reporting Deadline (for instructors): `6/8/2021`  
 Payment Deadline: `6/14/2021`  
-Last Day to Drop with Refund: `6/10/2021` 
-Graduation Application Deadline: `7/1/2021`
-Holidays: Independece Day - College closed no classes `7/4/2021 - 7/5/2021`   
+Last Day to Drop with Refund: `6/10/2021`  
+Graduation Application Deadline: `7/1/2021`  
+Holidays: Independence Day - College closed no classes `7/4/2021 - 7/5/2021`  
 Last Day to Withdraw: `7/26/2021`  
-Last Day of Class: `8/09/2021`    
-Grade Deadline: `8/12/2021 @ 12:00PM`
+Last Day of Class: `8/09/2021`  
+Grade Deadline: `8/12/2021 @ 12:00PM`  
+
 ## Class Schedule
 
 | Week    | Topic                          | Lectures                                  |
 | ------- | ------------------------------ | ----------------------------------------- |
 | Week 1  | Overview and Setup             | [Welcome](../Lectures/Week1/Welcome.pptx) |
-| Week 2  | Variables and Functions        |                                           |
+| Week 2  | Variables and Functions        | [Variables](../Lectures/Week2/Variables.pptx), [Functions](../Lectures/Week1/Functions.pptx) |
 | Week 3  | Conditions and Throwing Errors |                                           |
 | Week 4  | While Loops and I/O            |                                           |
 | Week 5  | For Loops and Structs          |                                           |

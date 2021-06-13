@@ -8,7 +8,7 @@ Welcome to CSC119! My name is Matthew Ernst, and I will be your instructor for t
 
 ## Contact Information
 
-|  | |
+| | |
 | ------------- | ------------- |
 | Instructor  | Matthew Ernst  |
 | Email   | Matthew.Ernst@frontrange.edu  |
@@ -22,11 +22,11 @@ Welcome to CSC119! My name is Matthew Ernst, and I will be your instructor for t
 
 ### Homework
 
-- [Overview](./Homework/HW0/README.md)
+- [Overview](./Homework/README.md)
 - [HW0](./Homework/HW0/README.md), [HW1](./Homework/HW1/README.md), [HW2](./Homework/HW2/README.md), [HW3](./Homework/HW3/README.md), [HW4](./Homework/HW4/README.md), [HW5](./Homework/HW5/README.md), [HW6](./Homework/HW6/README.md), [HW7](./Homework/HW7/README.md), [HW8](./Homework/HW8/README.md)
 
 ### Slides
 
-- [Week 1](./Slides/Week1), [Week 2](./Slides/Week2), [Week 3](./Slides/Week3), [Week 4](./Slides/Week4), [Week 5](./Slides/Week5), [Week 6](./Slides/Week6), [Week 7](./Slides/Week7), [Week 8](./Slides/Week8), [Week 9](./Slides/Week9), [Week 10](./Slides/Week10)
+- [Week 1](./Lectures/Week1), [Week 2](./Lectures/Week2), [Week 3](./Lectures/Week3), [Week 4](./Lectures/Week4), [Week 5](./Lectures/Week5), [Week 6](./Lectures/Week6), [Week 7](./Lectures/Week7), [Week 8](./Lectures/Week8), [Week 9](./Lectures/Week9), [Week 10](./Lectures/Week10)
 
 
