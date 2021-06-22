@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool hitSphere(const Point3D &sphereCenter, double radius, const Point3D &rayOrigin, const Vector3D &rayDirection) {
+double hitSphere(const Point3D &sphereCenter, double radius, const Point3D &rayOrigin, const Vector3D &rayDirection) {
     // Add your HW1 code here, plus make the neccessary modifications
     return false;
 }
