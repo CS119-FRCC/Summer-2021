@@ -28,6 +28,14 @@ blue = 64;
 
 We want those calculations to be able to handle decimal numbers, but the final value of red, green, and blue need to be integers for our file format. You may need to use C++ style casting to make this happen.
 
+We want those calculations to be able to handle decimal numbers, but the final value of red, green, and blue need to be integers for our file format. One more thing, `Color` is made up of doubles, so it might be a good idea to make sure that what you write to your file are ints. We can `cast` to another type using code like this. Imagine `static_cast` as a function that takes in one type of variable and changes it the best it can to what you specify.
+
+```
+double example = 4.2;
+int test = static_cast<int>(example);
+```
+
+
 ### The CSC119 Driver File
 
 In our class, we will use a unified file format to configure our raytracer image specifications.
@@ -48,6 +56,8 @@ This file format follows a similar style to the PPM image format, in that commen
 2. `aspectRatio` followed by two doubles designating the `aspectRatio` of the image.
 
 You can read more about what an `aspectRatio` is [here](https://en.wikipedia.org/wiki/Aspect_ratio_(image)).
+
+
 
 ## Your Task
 
