@@ -19,8 +19,8 @@ Grade Deadline: `8/12/2021 @ 12:00PM`
 | ------- | ------------------------------ | ----------------------------------------- |
 | Week 1  | Overview and Setup             | [Welcome](../Lectures/Week1/Welcome.pptx) |
 | Week 2  | Variables and Functions        | [Variables](../Lectures/Week2/Variables.pptx), [Functions](../Lectures/Week1/Functions.pptx) |
-| Week 3  | Conditions and Throwing Errors |                                           |
-| Week 4  | While Loops and I/O            |                                           |
+| Week 3  | Conditions and Throwing Errors | [Conditions](../Lectures/Week3/Conditions.pptx), [Exceptions](../Lectures/Week3/Exceptions.pptx)|                                          |
+| Week 4  | While Loops and I/O            | [While Loops](../Lectures/Week4/Loops.pptx), [I/O](../Lectures/Week4/IO.pptx) |                                         |
 | Week 5  | For Loops and Structs          |                                           |
 | Week 6  | Arrays                         |                                           |
 | Week 7  | `vector` and `namespace std`   |                                           |
