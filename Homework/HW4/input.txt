@@ -1,0 +1,8 @@
+# CS119 Driver File
+# Written By Matthew Ernst
+
+imageWidth 2048
+aspectRatio 16 9
+eye 0 0 0
+viewportWidth 4
+focalLength 1

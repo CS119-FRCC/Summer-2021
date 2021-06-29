@@ -134,8 +134,26 @@ class Vector3D {
 
         inline Vector3D &operator/=(const double scalar)
         {
-            *this = operator/(1 / scalar);
+            *this = operator/(scalar);
             return *this;
+        }
+
+        inline bool operator==(const Vector3D &other) const
+        {
+            for(size_t i = 0; i < data.size(); i++)
+            {
+                if (data[i] != other[i]) 
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        inline bool operator!=(const Vector3D &other) const
+        {
+            return !operator==(*this);
         }
 
         inline double length() const
@@ -177,9 +195,10 @@ inline Vector3D operator*(double scalar, const Vector3D &other)
     return other * scalar;
 }
     
+static std::default_random_engine generator;
+
 inline Vector3D makeRandomUnitVector()
 {
-    std::default_random_engine generator;
     std::uniform_real_distribution<double> distribution;
 
     Vector3D returnVector(3);
