@@ -10,7 +10,7 @@ In this homework, you begin to put together all of the elements we have been wor
 
 It would also be nice to be able to represent `Spheres` a little easier than we previously have been. To this end, lets utilize `structs`! Create a `struct` type called `Sphere`, and include within it the following properties that we have been working with. A new property for spheres is called `albedo`, which represents the kind of color that the sphere will reflect.
 
-1. origin (Point3D)
+1. center (Point3D)
 2. radius (double)
 3. albedo (Color)
 4. material (string)
