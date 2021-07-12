@@ -23,7 +23,7 @@ Grade Deadline: `8/12/2021 @ 12:00PM`
 | Week 4  | While Loops and I/O            | [While Loops](../Lectures/Week4/Loops.pptx), [I/O](../Lectures/Week4/IO.pptx) |                                         |
 | Week 5  | For Loops and Structs          | [Structs](../Lectures/Week5/Structs.pptx)                                          |
 | Week 6  | Arrays                         | [Arrays](../Lectures/Week6/Arrays/pptx)                                          |
-| Week 7  | `vector` and `namespace std`   |                                           |
+| Week 7  | `vector` and `namespace std`   | [Vectors](../Lectures/Week7/Vectors.pptx)                                         |
 | Week 8  | Recursion                      |                                           |
 | Week 9  | Work Week                      |                                           |
 | Week 10 | Review                         |                                           |
