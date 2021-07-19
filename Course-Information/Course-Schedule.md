@@ -24,7 +24,7 @@ Grade Deadline: `8/12/2021 @ 12:00PM`
 | Week 5  | For Loops and Structs          | [Structs](../Lectures/Week5/Structs.pptx)                                          |
 | Week 6  | Arrays                         | [Arrays](../Lectures/Week6/Arrays/pptx)                                          |
 | Week 7  | `vector` and `namespace std`   | [Vectors](../Lectures/Week7/Vectors.pptx), [Namespaces](../Lectures/Week7/Namespaces.pptx)                                         |
-| Week 8  | Recursion                      |                                           |
+| Week 8  | Recursion                      | [Recursion](../Lectures/Week8/Recursion.pptx)                                        |
 | Week 9  | Work Week                      |                                           |
 | Week 10 | Review                         |                                           |
 
