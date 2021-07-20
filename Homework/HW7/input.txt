@@ -1,0 +1,29 @@
+# CS119 Driver File
+# Written By Matthew Ernst
+
+imageWidth 1024
+aspectRatio 16 9
+eye 0 0 20
+viewportWidth 4
+focalLength 2
+
+samples 500
+
+# Objects
+
+sphere -5 4 -8 3 200 0 50 diffuse
+sphere 4 -3 -4 3 50 0 200 diffuse
+
+# Lights
+
+sphere 0 0 30 5 1000 1000 1000 light
+sphere 6 6 -6 1 1000 1000 1000 light
+sphere -6 -6 -2 0.8 1000 1000 1000 light
+
+# Walls
+
+sphere -1000010 0 0 1000000 120 120 120 diffuse
+sphere 1000010 0 0 1000000 120 120 120 diffuse
+sphere 0 -1000010 0 1000000 120 120 120 diffuse
+sphere 0 1000010 0 1000000 120 120 120 diffuse
+sphere 0 0 -1000010 1000000 120 120 120 diffuse
