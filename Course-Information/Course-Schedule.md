@@ -15,18 +15,18 @@ Grade Deadline: `8/12/2021 @ 12:00PM`
 
 ## Class Schedule
 
-| Week    | Topic                          | Lectures                                  |
-| ------- | ------------------------------ | ----------------------------------------- |
-| Week 1  | Overview and Setup             | [Welcome](../Lectures/Week1/Welcome.pptx) |
-| Week 2  | Variables and Functions        | [Variables](../Lectures/Week2/Variables.pptx), [Functions](../Lectures/Week1/Functions.pptx) |
-| Week 3  | Conditions and Throwing Errors | [Conditions](../Lectures/Week3/Conditions.pptx), [Exceptions](../Lectures/Week3/Exceptions.pptx)|                                          |
-| Week 4  | While Loops and I/O            | [While Loops](../Lectures/Week4/Loops.pptx), [I/O](../Lectures/Week4/IO.pptx) |                                         |
-| Week 5  | For Loops and Structs          | [Structs](../Lectures/Week5/Structs.pptx)                                          |
-| Week 6  | Arrays                         | [Arrays](../Lectures/Week6/Arrays/pptx)                                          |
-| Week 7  | `vector` and `namespace std`   | [Vectors](../Lectures/Week7/Vectors.pptx), [Namespaces](../Lectures/Week7/Namespaces.pptx)                                         |
-| Week 8  | Recursion                      | [Recursion](../Lectures/Week8/Recursion.pptx)                                        |
-| Week 9  | Work Week                      |                                           |
-| Week 10 | Review                         |                                           |
+| Week    | Topic                          | Lectures                                  																												|
+| ------- | ------------------------------ | ------------------------------------------------------------------------------------------------ |
+| Week 1  | Overview and Setup             | [Welcome](../Lectures/Week1/Welcome.pptx)      																									|
+| Week 2  | Variables and Functions        | [Variables](../Lectures/Week2/Variables.pptx), [Functions](../Lectures/Week1/Functions.pptx)     |
+| Week 3  | Conditions and Throwing Errors | [Conditions](../Lectures/Week3/Conditions.pptx), [Exceptions](../Lectures/Week3/Exceptions.pptx) |
+| Week 4  | While Loops and I/O            | [While Loops](../Lectures/Week4/Loops.pptx), [I/O](../Lectures/Week4/IO.pptx)                    |
+| Week 5  | For Loops and Structs          | [Structs](../Lectures/Week5/Structs.pptx)                                          							|
+| Week 6  | Arrays                         | [Arrays](../Lectures/Week6/Arrays/pptx)                                      								    |
+| Week 7  | `vector` and `namespace std`   | [Vectors](../Lectures/Week7/Vectors.pptx), [Namespaces](../Lectures/Week7/Namespaces.pptx)       |
+| Week 8  | Recursion                      | [Recursion](../Lectures/Week8/Recursion.pptx)                                        						|
+| Week 9  | Work Week                      |                                           																												|
+| Week 10 | Review                         |                                           																												|
 
 ## Homeworks
 
@@ -44,4 +44,6 @@ Grade Deadline: `8/12/2021 @ 12:00PM`
 
 ## Final Project
 
-TBD
+| Final Project | Link                                                 | Due Date    |
+| ------------- | ---------------------------------------------------- | ----------- |
+| Tic Tac Toe   | [Tic Tac Toe](../Final-Project/README.md)            | Due Week 9  |
