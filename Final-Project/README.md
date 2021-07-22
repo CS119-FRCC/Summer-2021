@@ -25,6 +25,8 @@ You may have also noticed I have provided a splash screen for the start up of th
 
 Make a fully functioning Tic Tac Toe Game that uses splash screens.
 
+A useful website for text to ASCII art for splash screens can be found [here](https://patorjk.com/software/taag/#p=display&f=Cola&t=Try%20Something%0A].)
+
 ## Requirements
 
 1. Submit your zip file in the following format `LastName-Final-Project.zip`.
