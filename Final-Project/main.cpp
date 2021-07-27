@@ -111,7 +111,7 @@ void playGame(TicTacToeGame &game) {
 }
 
 
-int main(int argc, char **argv){
+int main(int argc, char **argv) {
     TicTacToeGame test;
     playGame(test);
     return 0;
